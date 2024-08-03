@@ -1,4 +1,4 @@
-# ***This is Enhanced-RideInfo-Window version Thrilltracker (1.3.0)***
+# ***This is Enhanced-RideInfo-Window version Thrilltracker (2.0.0)***
 DISCLAIMER: This is a beta release of the Enhanced-RideInfo-Window. It is not guaranteed to not break anything
 
 # Enhanced-RideInfo-Window
