@@ -1,5 +1,5 @@
-# ***This is Enhanced-RideInfo-Window version Thrilltracker (2.0.0)***
-DISCLAIMER: This is a beta release of the Enhanced-RideInfo-Window. It is not guaranteed to not break anything
+# ***This is Enhanced-RideInfo-Window version Silver Bullet (V5.0.0) Milestone 1***
+DISCLAIMER: This is a M1 release of the Enhanced-RideInfo-Window. It is not guaranteed to not break anything
 
 # Enhanced-RideInfo-Window
 This plugin is a extension on the already existing RideWindow.
@@ -8,11 +8,10 @@ It adds a few more features to the window, such as:
 - Grouping of rides/stalls
 - Setting certain ride settings in the new RideWindow/StallWindow
 
-It is a different type of rideWindow than the default one, so it is recommended to use the default one if you are not sure what you are doing.(Like deleting rides, renaming rides or setting certian ride settings)
+It is a different type of rideWindow than the default one, so it is recommended to use the default one if you are not sure what you are doing.(Like deleting rides, renaming rides or setting certian ride settings) -> not yet implemented in this M1 build!
 
 ### screenshots
-![screenshot](C:\Users\larsm\OneDrive\Documents\GitHub\Enhanced-RideInfo-Window\img\EHRIS1.png)
-![screenshot](C:\Users\larsm\OneDrive\Documents\GitHub\Enhanced-RideInfo-Window\img\EHRIS2.png)
+TBC
 
 ## Installation
 1. Download the latest release from the [releases page](
@@ -39,7 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Thanks to Basssiiie for the template of the plugin
 
 ## Versioning
-current Version: [BETA 1 AdventureMaster V1.3.0]
+current Version: [Milestone 1 Silver Bullet V5.0.0]
 
 ## Changelog
 see the [CHANGELOG.md](CHANGELOG.md) file for details
