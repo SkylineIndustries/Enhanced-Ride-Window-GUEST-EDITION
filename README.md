@@ -23,11 +23,10 @@ TBC
 2. Click on the "Group" button to group the rides
 3. add a ride to a group by clicking on the "checkbox" next to the name of the ride
 4. click the "add to group" button to add a new group
-5. click the open group button to open the group window
-6. enjoy!
+5. enjoy!
 
 ## Contributors
-- [Nitye_Sky]
+- [NSKY]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
