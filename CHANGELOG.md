@@ -2,11 +2,11 @@
 All notable changes to this project will be documented in this file
 This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a Changelog](http://keepachangelog.com/)
 
-## [RELEASE Silver Bullet V5.0.0] - 2024-06-26 ***MILSTONE 1 RELEASE***
+## [RELEASE Silver Bullet V5.0.0] - 2025-11-17 ***MILSTONE 2 RELEASE***
 ### Added
-- New codebase called Silver Bullet
-- New UI
-- added functionallity back to add a new group and remove it
+- renaming of group
+- opening a group and see all the rides
+- demo version of ride window not in work yet
 
 ### Changed
 -
