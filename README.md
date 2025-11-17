@@ -1,4 +1,4 @@
-# ***This is Enhanced-RideInfo-Window version Silver Bullet (V5.0.0) Milestone 1***
+# ***This is Enhanced-RideInfo-Window version Silver Bullet (V5.0.0) Milestone 2***
 DISCLAIMER: This is a M1 release of the Enhanced-RideInfo-Window. It is not guaranteed to not break anything
 
 # Enhanced-RideInfo-Window
