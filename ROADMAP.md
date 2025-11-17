@@ -11,7 +11,7 @@ tbc
 
 ## **BETA RELEASES**
 
-### [MILESTONE 1 Silver Bullet V5.0.0] - 10-11-2025 ***MILESTONE 1 RELEASE***
+### [MILESTONE 2 Silver Bullet V5.0.0] - 17-11-2025 ***MILESTONE 1 RELEASE***
 This is the first new M1 release of the Enhanced Ride Window a completely new version of the V3.0.0 version.
 This version will rework the plugin, from the codebase till the UI.
 The new Silver Bullet codebase will help the plugin be faster, easier to update and extend.
